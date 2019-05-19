@@ -2,15 +2,15 @@ import React, { Component } from "react"
 import Header from "../components/Header/Header"
 import Footer from "../components/Footer"
 
-class index extends Component {
+class About extends Component {
   render() {
     return (
       <div>
         <Header />
-        <div>Martis whatever we love eating HEAART </div>
+        <div>About project and such</div>
         <Footer />
       </div>
     )
   }
 }
-export default index
+export default About
