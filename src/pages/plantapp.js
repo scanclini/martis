@@ -1,16 +1,17 @@
 import React, { Component } from "react"
 import Header from "../components/Header/Header"
 import Footer from "../components/Footer/Footer"
+import PlantApp from "../components/PlantApp/PlantApp"
 
-class index extends Component {
+class Login extends Component {
   render() {
     return (
       <div>
         <Header />
-        <div>Martis whatever we love eating HEAART </div>
+        <PlantApp />
         <Footer />
       </div>
     )
   }
 }
-export default index
+export default Login

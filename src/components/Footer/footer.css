@@ -1,0 +1,11 @@
+.footer {
+  margin: 10em 0em 0em 0em;
+  height: 20em;
+  align-items: "right";
+}
+.footer-gif {
+  margin: 0em 0em 0em 5em;
+  alt: "footer gif";
+  align-items: "left";
+  height: 30%;
+}
